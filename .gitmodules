@@ -1,0 +1,3 @@
+[submodule "modules/drush"]
+	path = modules/drush
+	url = git://github.com/drush-ops/drush.git
