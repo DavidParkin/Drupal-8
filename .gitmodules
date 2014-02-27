@@ -1,3 +1,11 @@
 [submodule "modules/drush"]
 	path = modules/drush
 	url = git://github.com/drush-ops/drush.git
+[submodule "devel"]
+	path = devel
+	url = http://git.drupal.org/project/devel.git
+	branch = 8.x-1.x
+[submodule "modules/devel"]
+	path = modules/devel
+	url = http://git.drupal.org/project/devel.git
+	branch = 8.x-1.x
